@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vandan9804@gmail.com**
 
-- ⚡ Fun fact **I think I am a quick learner.**
+- ⚡ Fun fact **I am a quick learner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
