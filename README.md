@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vandan-Bhangale](https://github.com/Vandan-Bhangale)
 
-- > My LinkedIn profile **https://www.linkedin.com/in/vandan-bhangale-239308285/**
+- 👉 My LinkedIn profile **https://www.linkedin.com/in/vandan-bhangale-239308285/**
 
 - 📫 How to reach me **vandan9804@gmail.com**
 
@@ -25,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandan-bhangale&show_icons=true&locale=en" alt="vandan-bhangale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandan-bhangale&" alt="vandan-bhangale" /></p>
-
-
