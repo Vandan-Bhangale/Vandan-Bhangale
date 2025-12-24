@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vandan9804@gmail.com**
 
-- ⚡ Fun fact **I am a quick learner.**
 # 💫 About Me:
 I’m a fresher MERN Full Stack Developer passionate about building responsive and scalable web applications. I enjoy working with MongoDB, Express, React, and Node.js to create real-world projects.<br><br>I’m open to collaborating on MERN-based and open-source projects, eager to learn best practices, and continuously improving my problem-solving and backend development skills. Feel free to ask me about JavaScript, React, REST APIs, or full-stack development.<br><br>⚡ Fun fact: I love turning ideas into working web applications and learning from every bug I fix.
 
